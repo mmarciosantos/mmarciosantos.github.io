@@ -46,12 +46,24 @@ a::before{
 }
 
 section{
-    display: inline-block;
-    padding: 627px, 184px;
-    margin-left: 91px;
-    margin-top: 116px;
-    margin-right: 722px;
-    margin-bottom: 497px;
-    background-color: #000;
-    color:#FFF;
+    position: absolute;
+    width: 627px;
+    height: 184px;
+    margin: 116px 722px 497px 91px;
+    background-color: #828282;
+    font-family: "Press Start 2P", sans-serif;
+    text-shadow: 4px 4px 0px #000000;
+    box-shadow: 10px 10px 0px #000;
+}
+
+h1{
+    color: #F2994A;
+    margin: 39px 194px 31px 193px;
+    font-size: 40px;
+}
+
+h2{
+    color: #FFF;
+    margin: 0px 0px 44px 40px;
+    font-size: 30px;
 }
