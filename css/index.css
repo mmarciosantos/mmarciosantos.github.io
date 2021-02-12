@@ -6,6 +6,13 @@ header{
     padding: 10px 20px;
 }
 
+.logo{
+    color:#2F80ED;
+    margin: 0;
+    text-shadow: 2px 2px 0px #fff;
+    align-items: center;
+}
+
 nav{
     text-align: right;
 }
@@ -54,6 +61,7 @@ section{
     font-family: "Press Start 2P", sans-serif;
     text-shadow: 4px 4px 0px #000000;
     box-shadow: 10px 10px 0px #000;
+    text-align: center;
 }
 
 h1{
@@ -64,6 +72,6 @@ h1{
 
 h2{
     color: #FFF;
-    margin: 0px 0px 44px 40px;
+    margin: 0px 47px 44px 40px;
     font-size: 30px;
 }
