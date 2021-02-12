@@ -8,7 +8,8 @@ header{
 
 .logo{
     color:#2F80ED;
-    margin: 0;
+    font-weight: 500;
+    margin: 0px;
     text-shadow: 2px 2px 0px #fff;
     align-items: center;
 }
@@ -36,7 +37,7 @@ a::before{
     margin-right: 10px;
 }
 
-#button{
+.download-cv-header{
     display: inline-block;
     background-color: #2F80ED;
     height: 60px;
@@ -48,30 +49,6 @@ a::before{
     transition: transform 100ms cubic-bezier(.45, .97, .68, 2.48);
 }
 
-#button:hover{
+.download-cv-header:hover{
     transform: scale(1.08);
-}
-
-section{
-    position: absolute;
-    width: 627px;
-    height: 184px;
-    margin: 116px 722px 497px 91px;
-    background-color: #828282;
-    font-family: "Press Start 2P", sans-serif;
-    text-shadow: 4px 4px 0px #000000;
-    box-shadow: 10px 10px 0px #000;
-    text-align: center;
-}
-
-h1{
-    color: #F2994A;
-    margin: 39px 194px 31px 193px;
-    font-size: 40px;
-}
-
-h2{
-    color: #FFF;
-    margin: 0px 47px 44px 40px;
-    font-size: 30px;
 }
