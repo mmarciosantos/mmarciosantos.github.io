@@ -37,7 +37,7 @@ a::before{
     margin-right: 10px;
 }
 
-.download-cv-header{
+.button-download-cv-header{
     display: inline-block;
     background-color: #2F80ED;
     height: 60px;
@@ -49,6 +49,6 @@ a::before{
     transition: transform 100ms cubic-bezier(.45, .97, .68, 2.48);
 }
 
-.download-cv-header:hover{
+.button-download-cv-header:hover{
     transform: scale(1.08);
 }
