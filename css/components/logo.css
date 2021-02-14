@@ -1,0 +1,12 @@
+header .logo{
+    color:#2F80ED;
+    font-weight: 500;
+    font-size: 20px;
+    text-shadow: 2px 2px 0px #fff;
+    align-items: center;
+    transition: transform 500ms cubic-bezier(.45, .97, .68, 2.48) ;
+}
+
+.logo:hover{
+    transform: scale(1.18);
+}
