@@ -1,8 +1,9 @@
 header .logo{
-    color:#2F80ED;
+    display: flex;
+    color: #fff;
     font-weight: 500;
-    font-size: 20px;
-    text-shadow: 2px 2px 0px #fff;
+    font-size: 30px;
+    text-shadow: 2px 2px 0px #2F80ED;
     align-items: center;
     transition: transform 500ms cubic-bezier(.45, .97, .68, 2.48) ;
 }
