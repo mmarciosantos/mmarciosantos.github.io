@@ -1,11 +1,11 @@
-.title{
+.main-title{
     color: #F2994A;
     font-family: "Press Start 2P", sans-serif;
     text-shadow: 4px 4px 0 #000;
     font-size: 40px;
 }
 
-.title.-second{
+.main-title.-second{
     color: #fff;
     text-shadow: none;
     text-align: center;
