@@ -1,6 +1,23 @@
 .section{
     background-color: #707070;
-    border-bottom: 10px solid #000;
+    border-bottom: 10px solid #292929;
     padding-top: 50px;
     padding-bottom: 100px;
+}
+
+.section .main-title{
+    margin-bottom: 60px;
+}
+
+.section.-project{
+    background-color: #000;
+}
+
+.section .p-project{
+    font-size: 30px;
+    color: #fff;
+}
+
+.section .paragraph{
+    text-align: justify;
 }

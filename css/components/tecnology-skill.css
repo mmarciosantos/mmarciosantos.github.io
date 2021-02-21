@@ -1,5 +1,6 @@
 .tecnology-skill{
     display: flex;
+    align-items: center;
     font-family: "Press Start 2P", sans-serif;
     color: #fff;
     font-size: 25px;
@@ -7,10 +8,16 @@
 
 .tecnology-skill .icon{
     margin-right: 25px;
+    width: 90px;
 }
 
 .tecnology-skill .right{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
+}
+
+.tecnology-skill .title{
+    margin-bottom: 10px;
+    font-size: 25px;
 }
